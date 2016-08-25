@@ -1,0 +1,28 @@
+{
+  "name": "hotstar-dl",
+  "version": "1.0.0",
+  "description": "hotstar downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sch00lb0y/hotstart-dl.git"
+  },
+  "keywords": [
+    "hotstar",
+    "hotstar-dl",
+    "hotstar-downloader",
+    "downloader"
+  ],
+  "author": "schoolboy (balaji)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sch00lb0y/hotstart-dl/issues"
+  },
+  "homepage": "https://github.com/sch00lb0y/hotstart-dl#readme",
+  "dependencies": {
+    "unirest": "^0.5.1"
+  }
+}
